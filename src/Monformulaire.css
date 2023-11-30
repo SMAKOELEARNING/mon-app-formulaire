@@ -1,0 +1,87 @@
+/* Assurez-vous d'inclure la police Montserrat dans votre projet, 
+   par exemple en l'ajoutant depuis Google Fonts dans votre fichier HTML */
+
+   body {
+    background-image: url('./img/oceanfond.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .logo {
+    margin-top: -70px; /* Ajoute de l'espace entre le logo et la boîte de dialogue */
+    margin-bottom: -50px;
+    max-width: 200px; /* Ajustez selon la taille de votre logo */
+    width: 80%; /* Ajuste la largeur à celle du logo si elle est plus petite que le max-width */
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* S'assure que le conteneur prend toute la hauteur de l'écran */
+  }
+  
+  .checkbox {
+  margin-top: -70px; /* Ajoute de l'espace entre le logo et la boîte de dialogue */
+  margin-bottom: -610px;
+  margin-left: -368px ;}
+
+   .formulaire-container {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background: linear-gradient(white, #87CEEB); /* Dégradé du blanc au bleu ciel */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .formulaire-container h1 {
+    color: #19A7CE;
+    font-size: 40px;
+  }
+  
+  .formulaire-container p {
+    color: #213F9A;
+    font-size: 19px;
+  }
+  
+  .formulaire-container label {
+    margin-top: 10px;
+    display: block;
+    color: #19A7CE;
+    font-size: 24px;
+  }
+  
+  .formulaire-container input {
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #DDD;
+    border-radius: 15px;
+    width: calc(100% - 22px); /* Padding + Border */
+    box-sizing: border-box;
+  }
+  
+  .formulaire-container button {
+    background-color: #0056b3;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+
+  .formulaire-container button:hover {
+    background-color: #004494;
+  }
+ 
+  body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
