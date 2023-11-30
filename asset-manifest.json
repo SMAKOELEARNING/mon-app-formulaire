@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mon-app-formulaire/static/css/main.2c18fc33.css",
+    "main.js": "/mon-app-formulaire/static/js/main.941d389f.js",
+    "static/js/787.8097bcc2.chunk.js": "/mon-app-formulaire/static/js/787.8097bcc2.chunk.js",
+    "static/media/oceanfond.png": "/mon-app-formulaire/static/media/oceanfond.ed9ba78a3c03d48ba38f.png",
+    "static/media/SMAKO.png": "/mon-app-formulaire/static/media/SMAKO.8cdf0c5a121d97901858.png",
+    "index.html": "/mon-app-formulaire/index.html",
+    "main.2c18fc33.css.map": "/mon-app-formulaire/static/css/main.2c18fc33.css.map",
+    "main.941d389f.js.map": "/mon-app-formulaire/static/js/main.941d389f.js.map",
+    "787.8097bcc2.chunk.js.map": "/mon-app-formulaire/static/js/787.8097bcc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c18fc33.css",
+    "static/js/main.941d389f.js"
+  ]
+}
